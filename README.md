@@ -1,4 +1,4 @@
-Imported stock indicator data from Yahoo Finance. Originally did testing on a large cap stock (SOFI), medium cap stock (NOA), and a small cap stock (BRTX). Testing was done on stock day over the course of 10 days, with all three initial stocks going through the process.
+Imported stock indicator data from Yahoo Finance. Originally did testing on a large cap stock (SOFI), medium cap stock (NOA), and a small cap stock (BRTX). Testing was done on stock data over the course of 10 days, with all three initial stocks going through the process.
 Started with a 70/20/10 split of the data and then put it through three different machine learning algorithms which were GD Boost, Random Forest, and LSTM. 
 Initial models were the data showed GD Boost to have the best model so I proceeded with that algorithm and applied RSI to it before putting it through paper trades.
 Then the data was denoised using moving averages and put through the same process and once again paper traded.
