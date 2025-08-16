@@ -6,7 +6,7 @@ Then the data was denoised using moving averages and put through the same proces
 The paper trades were done with a value of $1,000,000. 
 These were just initial tests and now it was time to apply the same code to 4 new stocks that were top daily gainers for their respective days.
 The algorithm would only run on a few hours of code from 9:30 am to whenever the stock peaked in price which was usually around noon. 
-First stock was NEGG, which had an opening price on 08/04/2025 of $60.25 and hit a peak of $68.40, which was a gain of 13.53 %. I applied my algorithm (noisy and denoised) and then did paper trades. I got -10.28% gain for noisy and -9.89 % gain for denoised.
+First stock was NEGG, which had an opening price on 08/04/2025 of $60.25 and hit a peak of $68.40, which was a gain of 13.53 %. I applied my algorithm (noisy and denoised) and then did paper trades. I got -10.28% gain for noisy and -8.98 % gain for denoised.
 Second stock was SEAT, which had an opening price on 08/06/2025 of $20.95 and hit a peak of $35.00, which was a gain of around 67.06 %. I applied my algorithm (noisy and denoised) and then did paper trades. I got 7.82 % gain for noisy and 5.56 % gain for denoised.
 Third stock was BROS, which had an opening price on 08/07/2025 of $69.65 and hit a peak of $71.80, which was a gain of around 3.09 %. I applied my algorithm (noisy and denoised) and then did paper trades. I got 0% gain for noisy and 0 % gain for denoised.
 Fourth stock was IBP, which had an opening price on 08/07/2025 of $230.93 and hit a peak of $263.20 which was gain of around 13.98%. I applied my algorithm (noisy and denoised) and then did paper trades. I got 0% gain for noisy and 1.07 % gain for denoised.
